@@ -1,0 +1,1 @@
+fprintf('%d\n', int32(input('')));

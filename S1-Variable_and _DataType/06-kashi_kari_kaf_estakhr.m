@@ -1,0 +1,1 @@
+fprintf("%d\n", input('') * input('') * 10 ^ 4 / 20);
